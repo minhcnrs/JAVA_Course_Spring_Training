@@ -1,2 +1,2 @@
-# JAVA_Course_Spring_Training
-Training Course for Spring Platform Development
+# JAVA_course_Spring_Hibernate_JPA
+The course introduces lastest Java technologies
